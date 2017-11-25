@@ -1,2 +1,2 @@
-# sgproject
-halo
+# zigZag
+First project for PPK
